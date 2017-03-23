@@ -1,2 +1,2 @@
 # gentoo-overlay
-my own personal Gentoo overlay
+my own Gentoo overlay
