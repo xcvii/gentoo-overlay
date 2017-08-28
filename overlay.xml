@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+    <repo priority="50" status="unofficial">
+        <name>xcvii</name>
+        <description>my private overlay</description>
+        <owner>
+            <name>Endre Tamas SAJO</name>
+            <email>sajobandi@gmail.com</email>
+        </owner>
+        <source type="git">https://github.com/xcvii/gentoo-overlay.git</source>
+        <feed>https://github.com/xcvii/gentoo-overlay/commits/master.atom</feed>
+    </repo>
+</repositories>
